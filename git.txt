@@ -3,3 +3,18 @@
 Titulo
 
 Me gusta el pancito
+
+
+
+git config --global user.email "alexis_f_carvajal@hotmail.com"
+git config --global user.name "alexiscarvajal"
+
+
+git commit -> abre el cajon del commit
+
+colocamos titulo -> color amarillo
+colocamos descripcion -> color blanco
+
+para salir del cajon -> ESC
+
+para cerrar el cajon y ejecutar el commit -> wq (window quit)
